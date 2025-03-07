@@ -241,9 +241,6 @@ I'm a final-year B.Tech student in **Computer Science Engineering**, specializin
 ---
 
 <!-- Footer animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
 
 <div align="center">
   <h3>Keep Coding, Keep Innovating!</h3>
