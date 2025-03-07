@@ -18,7 +18,7 @@
 
 I'm a final-year B.Tech student in **Computer Science Engineering**, specializing in **Artificial Intelligence and Machine Learning**. I'm passionate about building innovative projects, solving complex problems, and continuously learning new technologies.
 
-<img align="right" alt="Coding" width="280" style="max-width: 100%; height: auto;" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
+<img align="right" alt="Coding" width="250" style="max-width: 100%; height: auto;" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 - 🌍 **Location:** Anakapalle, Andhra Pradesh, India
 - 📧 **Email:** [manoharchoppa6@gmail.com](mailto:manoharchoppa6@gmail.com)
